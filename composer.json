@@ -1,0 +1,19 @@
+{
+    "name": "admin/test1",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KKoaLLa04",
+            "email": "ndkdzvl@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/events": "^10.44",
+        "eftec/bladeone": "^4.11",
+        "phroute/phroute": "^2.2"
+    }
+}
